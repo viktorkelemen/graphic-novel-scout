@@ -1,0 +1,23 @@
+{
+  "id": "da14bfea-ea04-4293-bb6e-5edc99c2adaf",
+  "name": "Weekly graphic novel scout",
+  "enabled": true,
+  "createdAtMs": 1773524579073,
+  "updatedAtMs": 1773524651409,
+  "schedule": {
+    "kind": "cron",
+    "expr": "0 10 * * 0",
+    "tz": "America/New_York"
+  },
+  "sessionTarget": "isolated",
+  "wakeMode": "now",
+  "payload": {
+    "kind": "agentTurn",
+    "message": "You are Kit, Viktor's AI assistant. Scout these graphic novel / comics recommendation sites for new releases, reviews, and notable picks from the past week. Fetch each URL and extract anything interesting:\n\n1. https://www.tcj.com/ (The Comics Journal)\n2. https://www.drawnandquarterly.com/blog (Drawn & Quarterly blog)\n3. https://www.fantagraphics.com/blogs/news (Fantagraphics news)\n4. https://bookriot.com/category/comics/ (Book Riot comics)\n5. https://www.publishersweekly.com/pw/by-topic/industry-news/comics/index.html (Publishers Weekly comics)\n6. https://comicsbeat.com/ (Comics Beat)\n7. https://www.brokenfrontier.com/ (Broken Frontier)\n8. https://thenib.com/ (The Nib - political/journalism comics)\n9. https://www.europecomics.com/ (European Comics in Translation)\n10. https://www.reddit.com/r/graphicnovels/top/?t=week (r/graphicnovels weekly top)\n11. https://www.reddit.com/r/altcomix/top/?t=week (r/altcomix weekly top)\n12. https://www.reddit.com/r/bandedessinee/top/?t=week (r/bandedessinee weekly top)\n\nAfter scanning, write a concise summary (5-10 picks max) of the most interesting new or upcoming graphic novels and comics. Focus on: literary/art comics, graphic memoirs, translated works, political/historical non-fiction comics \u2014 things Viktor would actually like based on his reading history (he loves Guy Delisle, Joe Sacco, Riad Sattouf, Shigeru Mizuki, Daniel Clowes, Adrian Tomine, Fantagraphics/D&Q publishers, Eastern European and Middle Eastern themes, journalism comics). Skip superhero stuff entirely. For each pick include title, author, a one-line hook, and publication date if available. Flag any that are already on his to-read list in reading.md."
+  },
+  "delivery": {
+    "mode": "announce",
+    "channel": "telegram",
+    "to": "8586004014"
+  }
+}
