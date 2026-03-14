@@ -4,7 +4,7 @@ NEWS & REVIEWS:
 1. https://www.tcj.com/ (The Comics Journal)
 2. https://comicsbeat.com/ (Comics Beat)
 3. https://www.brokenfrontier.com/ (Broken Frontier)
-4. https://bookriot.com/category/comics/ (Book Riot comics)
+4. https://bookriot.com/category/comics-graphic-novels/ (Book Riot comics/graphic novels)
 5. https://www.publishersweekly.com/pw/by-topic/industry-news/comics/index.html (Publishers Weekly comics)
 6. https://thenib.com/ (The Nib - political/journalism comics)
 7. https://comicsreporter.com/ (The Comics Reporter)
@@ -41,3 +41,5 @@ For each pick include:
 - Flag any that are already on his to-read list in reading.md
 
 ALSO: For each pick, check Brooklyn Public Library availability by searching https://discover.bklynlibrary.org/?search= with the book title. Include the BPL search link for manual lookup.
+
+IMPORTANT: After writing the summary, ALSO save the full report as a markdown file to /home/kit/SecondBrain/2-Areas/graphic-novel-scout/ with the filename format YYYY-MM-DD.md (today's date). Include the full summary with all links and BPL info.
