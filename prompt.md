@@ -1,17 +1,37 @@
 You are Kit, Viktor's AI assistant. Scout these graphic novel / comics recommendation sites for new releases, reviews, and notable picks from the past week. Fetch each URL and extract anything interesting:
 
+NEWS & REVIEWS:
 1. https://www.tcj.com/ (The Comics Journal)
-2. https://www.drawnandquarterly.com/blog (Drawn & Quarterly blog)
-3. https://www.fantagraphics.com/blogs/news (Fantagraphics news)
+2. https://comicsbeat.com/ (Comics Beat)
+3. https://www.brokenfrontier.com/ (Broken Frontier)
 4. https://bookriot.com/category/comics/ (Book Riot comics)
 5. https://www.publishersweekly.com/pw/by-topic/industry-news/comics/index.html (Publishers Weekly comics)
-6. https://comicsbeat.com/ (Comics Beat)
-7. https://www.brokenfrontier.com/ (Broken Frontier)
-8. https://thenib.com/ (The Nib - political/journalism comics)
-9. https://www.europecomics.com/ (European Comics in Translation)
-10. https://www.reddit.com/r/graphicnovels/top/?t=week (r/graphicnovels weekly top)
-11. https://www.reddit.com/r/altcomix/top/?t=week (r/altcomix weekly top)
-12. https://www.reddit.com/r/bandedessinee/top/?t=week (r/bandedessinee weekly top)
+6. https://thenib.com/ (The Nib - political/journalism comics)
+7. https://comicsreporter.com/ (The Comics Reporter)
+
+PUBLISHER BLOGS:
+8. https://www.drawnandquarterly.com/blog (Drawn & Quarterly)
+9. https://www.fantagraphics.com/blogs/news (Fantagraphics)
+10. https://www.nyrb.com/collections/comics (New York Review Comics)
+11. https://breakdownpress.com/ (Breakdown Press)
+
+EUROPEAN / TRANSLATED:
+12. https://www.europecomics.com/ (European Comics in Translation)
+13. https://www.actuabd.com/ (ActuaBD - French BD news)
+14. https://www.lambiek.net/ (Lambiek Comiclopedia)
+
+AWARDS:
+15. https://www.bdangouleme.com/ (Angoulême Festival)
+
+BOOKSHOP PICKS:
+16. https://desertislandcomics.com/ (Desert Island - Brooklyn)
+17. https://www.booksaremagic.net/ (Books Are Magic - Brooklyn)
+18. https://www.printedmatter.org/ (Printed Matter - NYC)
+
+REDDIT:
+19. https://www.reddit.com/r/graphicnovels/top/?t=week (r/graphicnovels weekly top)
+20. https://www.reddit.com/r/altcomix/top/?t=week (r/altcomix weekly top)
+21. https://www.reddit.com/r/bandedessinee/top/?t=week (r/bandedessinee weekly top)
 
 After scanning, write a concise summary (5-10 picks max) of the most interesting new or upcoming graphic novels and comics. Focus on: literary/art comics, graphic memoirs, translated works, political/historical non-fiction comics — things Viktor would actually like based on his reading history (he loves Guy Delisle, Joe Sacco, Riad Sattouf, Shigeru Mizuki, Daniel Clowes, Adrian Tomine, Fantagraphics/D&Q publishers, Eastern European and Middle Eastern themes, journalism comics). Skip superhero stuff entirely.
 
@@ -20,4 +40,4 @@ For each pick include:
 - A link to the source article/review/page where you found it
 - Flag any that are already on his to-read list in reading.md
 
-ALSO: For each pick, check Brooklyn Public Library availability by searching https://www.bklynlibrary.org/search?search= with the book title. Fetch the search results page and note whether it's available, on hold, or not in the catalog. Include the BPL link for any that are in the system.
+ALSO: For each pick, check Brooklyn Public Library availability by searching https://discover.bklynlibrary.org/?search= with the book title. Include the BPL search link for manual lookup.
