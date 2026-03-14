@@ -7,7 +7,7 @@ Runs every Sunday at 10 AM ET → delivers to Telegram.
 1. [The Comics Journal](https://www.tcj.com/) — serious comics criticism
 2. [Comics Beat](https://comicsbeat.com/) — indie/literary industry news
 3. [Broken Frontier](https://www.brokenfrontier.com/) — UK-based, strong on indie & European
-4. [Book Riot Comics](https://bookriot.com/category/comics/)
+4. [Book Riot Comics/Graphic Novels](https://bookriot.com/category/comics-graphic-novels/)
 5. [Publishers Weekly Comics](https://www.publishersweekly.com/pw/by-topic/industry-news/comics/index.html)
 6. [The Nib](https://thenib.com/) — political/journalism comics
 7. [The Comics Reporter](https://comicsreporter.com/) — deep cuts, long-form
